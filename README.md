@@ -11,8 +11,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 First Frontend Mentor challenge and attempt while following guides on YouTube for the same solution.
@@ -24,7 +22,7 @@ First Frontend Mentor challenge and attempt while following guides on YouTube fo
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://distracted-mccarthy-8d81f7.netlify.app/)
+- Solution URL: [QR Code Component (Netlify)](https://distracted-mccarthy-8d81f7.netlify.app/)
 
 
 ## My process
